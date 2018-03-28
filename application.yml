@@ -48,10 +48,10 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+words: noun1,noun2,noun3,noun4
 
 ---
 spring:
   profiles: cold-noun
-words: icicle,refrigerator,blizzard,snowball
+words: cold-noun1,cold-noun2,cold-noun3,cold-noun4
   
